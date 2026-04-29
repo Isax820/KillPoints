@@ -1,0 +1,10 @@
+name: KillPoints
+version: 1.0
+main: fr.isax.killpoints.Main
+api-version: 1.20
+
+commands:
+  points:
+    description: Voir ses points
+  shop:
+    description: Ouvrir le shop
